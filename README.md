@@ -1,51 +1,16 @@
-# Template Bottom tabs
+# flutter_application_1
 
-Template starter with React Navigation Bottom Tabs
+A new Flutter project.
 
-# Preview
+## Getting Started
 
-![../media/bottomtabs.gif](../media/bottomtabs.gif | width=200)
+This project is a starting point for a Flutter application.
 
-# Installation
+A few resources to get you started if this is your first Flutter project:
 
-1. Install [node.js](https://nodejs.org/en/)
-2. Install Expo
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-   ```jsx
-   npm install --global expo-cli
-   ```
-
-3. Download this repo
-4. Install deps on your template folder
-
-   ```jsx
-   npm install
-   ```
-
-5. Start the environtment
-
-   ```jsx
-   expo start
-   ```
-
-### Rapi UI
-
-![../media/hero.png](../media/hero.png)
-
-These UI components are provided by [Rapi UI](https://rapi-ui.kikiding.space/).
-Check the [documentation](https://rapi-ui.kikiding.space/docs/) for usage and more components.
-
-# File Managements
-
-These are the folders and the functionality
-
-```jsx
-/src/assets -> for media such as images, etc
-/src/components -> for components
-/src/navigation -> for React Navigation
-/src/screens -> for Screens
-```
-
-if you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
-
-Reach me on [twitter](https://twitter.com/kikiding/)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
